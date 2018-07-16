@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfuserExProtectionFinder", "ConfuserExProtectionFinder\ConfuserExProtectionFinder.csproj", "{B0DE67BC-155F-444D-B07A-6B13136DCE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DE67BC-155F-444D-B07A-6B13136DCE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DE67BC-155F-444D-B07A-6B13136DCE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DE67BC-155F-444D-B07A-6B13136DCE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DE67BC-155F-444D-B07A-6B13136DCE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FE5CC6-54AF-4B37-94E6-27D806922589}
+	EndGlobalSection
+EndGlobal
